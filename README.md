@@ -1,3 +1,10 @@
+[![GitHub issues](https://img.shields.io/github/issues/GabrieleAraujo/comparative-optimizer-deeplearning)](https://github.com/GabrieleAraujo/comparative-optimizer-deeplearning/issues) 
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-yellow.svg?style=flat-square)](https://github.com/GabrieleAraujo/comparative-optimizer-deeplearning/pulls) 
+[![HitCount](https://views.whatilearened.today/views/github/GabrieleAraujo/comparative-optimizer-deeplearning.svg)](https://github.com/GabrieleAraujo/comparative-optimizer-deeplearning) 
+[![website coderjojo.github.io](https://img.shields.io/website-up-down-yellow-red/http/coderjojo.github.io/creative-profile-readme.svg)](GabrieleAraujo)
+
+
+
 # Comparative Optimizer Analysis in Deep Learning Tasks
 
 This repository contains the code, data, and analysis used in the paper **"Análise Comparativa de Otimizadores em Tarefas de Classificação e Regressão Utilizando Redes Neurais Profundas"** by *Gabriele S. Araújo* and *Omar A. Carmona Cortes*. The study evaluates different optimizers' performance in classification and regression deep learning tasks using Multi-Layer Perceptrons (MLPs).

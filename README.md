@@ -12,8 +12,8 @@ This repository contains the code, data, and analysis used in the paper **"Anál
 ## Overview
 
 The goal of this research is to compare the performance of four optimizers—SGD with momentum, Adagrad, RMSprop, and Adam—across two tasks:
-- **Sentiment Classification** using the IMDB movie reviews dataset.
-- **Temperature Regression** using Belém, Pará, Brazil meteorological data.
+- **Sentiment Classification** using the [IMDB movie reviews dataset](https://bit.ly/3BXLvZm).
+- **Temperature Regression** using [Belém, Pará, Brazil meteorological data](https://bit.ly/48qC54D).
 
 Key findings from the paper:
 - RMSprop demonstrated superior performance in the sentiment classification task (Accuracy: 0.8847).

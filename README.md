@@ -59,3 +59,6 @@ For temperature regression using meteorological data, the results were as follow
 SGD with momentum showed the lowest Mean Absolute Error (MAE) of **0.3973** in the simplest model (MLP1).
 
 Full results are available in the `/results` folder.
+
+## License
+This project is licensed under the MIT License.

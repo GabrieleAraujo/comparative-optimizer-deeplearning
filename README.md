@@ -26,11 +26,11 @@ Comparative-Optimizer-Analysis-DeepLearning/
 ├── data/                   # Datasets used in the experiments
 │   ├── BrazilWeather     # Dataset for sentiment classification
 │   ├── IMDBDataset     # Dataset for temperature regression
-├── train_classification.py  # Script to train a classification model
-├── train_regression.py      # Script to train a regression model
 ├── results/                # Output results, metrics, and figures
 │   ├── classification/     # Classification task results
 │   ├── regression/         # Regression task results
+├── train_classification.py  # Script to train a classification model
+├── train_regression.py      # Script to train a regression model
 └── README.md               # This file
 ```
 

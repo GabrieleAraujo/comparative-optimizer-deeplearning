@@ -7,7 +7,7 @@
 
 # Comparative Optimizer Analysis in Deep Learning Tasks
 
-This repository contains the code, data, and analysis used in the paper **"Análise Comparativa de Otimizadores em Tarefas de Classificação e Regressão Utilizando Redes Neurais Profundas"** by *Gabriele S. Araújo* and *Omar A. Carmona Cortes*. The study evaluates different optimizers' performance in classification and regression deep learning tasks using Multi-Layer Perceptrons (MLPs).
+This repository contains the code, data, and analysis used in the paper **"Análise Comparativa de Otimizadores em Tarefas de Classificação e Regressão Utilizando Redes Neurais Profundas"**. The study evaluates different optimizers' performance in classification and regression deep learning tasks using Multi-Layer Perceptrons (MLPs).
 
 ## Overview
 

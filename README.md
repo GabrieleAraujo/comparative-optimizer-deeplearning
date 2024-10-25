@@ -24,8 +24,8 @@ Key findings from the paper:
 ```bash
 Comparative-Optimizer-Analysis-DeepLearning/
 ├── data/                   # Datasets used in the experiments
-│   ├── BrazilWeather     # Dataset for sentiment classification
-│   ├── IMDBDataset     # Dataset for temperature regression
+│   ├── BrazilWeather     # Dataset for temperature regression
+│   ├── IMDBDataset       # Dataset for sentiment classification
 ├── results/                # Output results, metrics, and figures
 │   ├── classification/     # Classification task results
 │   ├── regression/         # Regression task results
